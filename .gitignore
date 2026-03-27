@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Temp folders
+temp/
+
+# IDE files
+.vscode/
+.idea/

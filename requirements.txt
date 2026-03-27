@@ -1,0 +1,6 @@
+groq
+python-telegram-bot
+PyPDF2
+python-dotenv
+python-docx
+reportlab
