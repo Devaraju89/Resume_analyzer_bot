@@ -13,7 +13,7 @@ A powerful AI-driven tool that compares your resume to a job description (JD), g
 
 ### 1. Prerequisites
 - Python 3.9+
-- A Google Gemini API Key: [Get it here](https://aistudio.google.com/app/apikey)
+- A Groq Cloud API Key: [Get it here](https://console.groq.com/keys)
 - A Telegram Bot Token: [Create one via @BotFather](https://t.me/BotFather)
 
 ### 2. Installation
@@ -29,7 +29,7 @@ A powerful AI-driven tool that compares your resume to a job description (JD), g
 2. Fill in your keys:
    ```env
    TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
-   GEMINI_API_KEY=your_gemini_api_key_here
+   GROQ_API_KEY=your_groq_api_key_here
    ```
 
 ### 4. Running the Bot
